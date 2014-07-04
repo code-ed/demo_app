@@ -1,0 +1,1 @@
+DemoApp::Application.config.secret_token = '7422fbdc1db53c4f6efd9112ed8f6e23ae9f511a06435a56e3645fd32d4fa16bfc1873eb99ec05916df3127cc9bf05302597de3ac1c8f78b26938d106383af8c'
